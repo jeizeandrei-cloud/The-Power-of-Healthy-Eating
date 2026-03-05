@@ -1,0 +1,76 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>Mapeh and TLE Performance Task</title>
+<style>
+	h1 {background-color: lightblue;
+		margin-bottom:0px;
+		margin-left:0px;
+		margin-right:750px;
+		margin-top:0px;
+		align-content: center;
+		padding: 30px;
+		font-size: 30px;
+
+	}
+
+	h2 {
+		font-family:sans-serif;
+		font-size:20px;
+		align-items: center;
+		background-color: beige;
+		padding:20px;
+
+
+	p {
+		margin-left: 0px;
+		margin-right:400px;
+		margin-top:20px;
+
+	}
+
+	video {
+		margin-left:500px;
+		margin-right:500px;
+	}
+
+</style>
+
+
+<h1>The Power of Healthy Eating</h1>
+
+<h2>WHY IS IT IMPORTANT?</h2>
+<p><b >Healthy eating is a crucial aspect of maintaining a balanced lifestyle. A well-balanced diet provides the body with the necessary vitamins, and minerals to function optimally. A healthy diet can also boost energy levels, improve mental clarity, and support a healthy weight. Additionally, it can help strengthen the immune system, reducing the risk of illnesses and infections.</b></p>
+
+
+<h2>HOW TO MAINTAIN HEALTHY EATING?</h2>
+<p><b>To incorporate healthy eating into your daily routine, start by making small changes. Begin by adding more fruits and vegetables to your meals, and try new recipes that feature whole grains and lean proteins. Limit your intake of processed and sugary foods, and drink plenty of water throughout the day.</b></p>
+
+<h2>WHAT ARE THE TIPS FOR HEALTHY EATING?</h2>
+<p><b>- Eat a variety of whole foods</b></p>
+<p><b>- Limit processed and sugary foods</b></p>
+<p><b>- Cook at home using fresh ingredients</b></p>
+<p><b>- Plan your meals ahead of time</b></p>
+
+
+
+<h2>Benefits to Living a Healthy Lifestyle</h2>
+<p><b>1. Gives you energy, strength, and benefits in fighting germs, sickness, and bad bacteria.</b></p>
+<p><b>2. It makes your skin looks healthier, and look glowing.</b></p>
+<p><b>3. It helps your organs associated with digestion, and aids it by making it easier to break down foods to digest.</b></p>
+<p><b>4. It helps regulate blood pressure, and keeps the heart safe and healthy.</b></p>
+<p><b>5 It gives our body the necessary vitamins it needs everyday to function properly.</b></p>
+
+<h2>CONCLUSION</h2>
+<p><b>By prioritizing healthy eating, you can feel more energized, focused, and confident in your body. Make healthy eating a part of your lifestyle and experience the benefits for yourself.</b></p>
+</head>
+
+
+
+<body style="background-color: lightblue;">
+<video width="container-fluid" height="container-fluid" controls>
+  <source src="MAPEH.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</body>
+<html>
